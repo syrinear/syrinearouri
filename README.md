@@ -1,8 +1,3 @@
-# bryanpanesa.github.io
-Bryan Jay B. Panesa's Personal portfolio website.
-
-This is my personal portfolio website containing different an in depth description about projects I have done and contributed to. 
-Here's a live demo: https://bryanpanesa.github.io/
 
 ## Tools Used
 
